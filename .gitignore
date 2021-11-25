@@ -22,3 +22,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+ganache-2.5.4-linux-x86_64.AppImage
